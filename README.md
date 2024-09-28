@@ -1,19 +1,28 @@
-# Welcome to your Expo app 👋
+# Counter App - React Native
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple counter app built with React Native that demonstrates state management using the `useState` hook. The app includes buttons to increment, decrement, and reset the counter value.
+
+## Features
+
+- Display the current counter value.
+- Increment the counter by 1.
+- Decrement the counter by 1.
+- Reset the counter to 0.
 
 ## Get started
+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 1. Install dependencies
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. Start the app
 
    ```bash
-    npx expo start
+    pnpm expo start
    ```
 
 In the output, you'll find options to open the app in a
@@ -30,7 +39,7 @@ You can start developing by editing the files inside the **app** directory. This
 When you're ready, run:
 
 ```bash
-npm run reset-project
+pnpm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
@@ -48,4 +57,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# react-native-counter-app" 
