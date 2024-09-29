@@ -11,9 +11,11 @@ A simple counter app built with React Native that demonstrates state management 
 
 ## Screenshots
 
-![Screenshot 1](<assets/images/counter%20screen%20(1).jpg>)
-![Screenshot 2](<assets/images/counter%20screen%20(2).jpg>)
-![Screenshot 3](<assets/images/counter%20screen%20(3).jpg>)
+## Screenshots
+
+<img src="assets/images/counter%20screen%20(1).jpg" alt="Screenshot 1" width="400">
+<img src="assets/images/counter%20screen%20(2).jpg" alt="Screenshot 2" width="400">
+<img src="assets/images/counter%20screen%20(3).jpg" alt="Screenshot 3" width="400">
 
 ## Technologies Used
 
