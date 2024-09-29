@@ -9,17 +9,41 @@ A simple counter app built with React Native that demonstrates state management 
 - Decrement the counter by 1.
 - Reset the counter to 0.
 
-## Get started
+## Screenshots
+
+![Screenshot 1](<assets/images/counter%20screen%20(1).jpg>)
+![Screenshot 2](<assets/images/counter%20screen%20(2).jpg>)
+![Screenshot 3](<assets/images/counter%20screen%20(3).jpg>)
+
+## Technologies Used
+
+- **React Native**: Mobile app development framework
+- **Expo**: Tool for building React Native apps
+- **JavaScript**: Core programming language used
+
+## Installation
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-1. Install dependencies
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Chigozie0706/react-native-counter-app.git
+   ```
+
+2. Navigate to the current directory
+
+   ```bash
+   cd react-native-counter-app
+   ```
+
+3. Install dependencies
 
    ```bash
    pnpm install
    ```
 
-2. Start the app
+4. Start the app
 
    ```bash
     pnpm expo start
@@ -33,16 +57,6 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-pnpm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
